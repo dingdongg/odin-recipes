@@ -24,3 +24,6 @@ My hope is that I visit these topcis in the future frequently to get a grasp of 
 - How the internet works 
 - SETTING up git (SSH keys. I ran into a lot of issues pertaining to permission issues?)
 
+By the end of this project, I will have solified my knowledge and understanding of the following topics:
+- ... // TODO
+
