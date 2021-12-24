@@ -1,6 +1,7 @@
 img {
     height: 400px;
     width: auto;
+    align-items: center;
 }
 
 .pasta-img {
@@ -9,4 +10,27 @@ img {
 
 .page-title {
     color: rgb(104, 29, 29);
+    font-size: 36px;
+}
+
+body {
+    background-color:rgb(218, 175, 175);
+}
+
+li {
+    font-weight: 100;
+    font-size: 24px;
+}
+
+.recipe-links li {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 30px;
 }
