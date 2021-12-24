@@ -6,3 +6,7 @@ img {
 .pasta-img {
     transform: rotate(-90deg);
 }
+
+.page-title {
+    color: rgb(104, 29, 29);
+}
