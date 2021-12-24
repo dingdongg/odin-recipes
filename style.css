@@ -17,14 +17,21 @@ body {
     background-color:rgb(218, 175, 175);
 }
 
-li {
+.ingredients li {
     font-weight: 100;
     font-size: 24px;
+    color: red;
 }
 
 .recipe-links li {
     font-size: 24px;
     font-weight: bold;
+}
+
+.steps li {
+    font-weight: 100;
+    font-size: 24px;
+    color: blue;
 }
 
 p {
